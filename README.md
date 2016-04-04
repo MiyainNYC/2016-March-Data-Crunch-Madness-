@@ -13,8 +13,8 @@ This project is to create an optimized model to predict 2016 NCAA Finals, based 
 * http://shootingstarsnyc.azurewebsites.net/
 
 > Model Performance on training dataset:
-* log loss: 0.46
-* accuracy : 81% (Both beat 2015 Kaggle NCAA competition)
+* log loss: 0.52
+* accuracy : 81%
 
 > Model performance on testing dataset:
 * accuracy: 75%-80% for predicting Round of 32, Sweet 16 and Elite Eight
