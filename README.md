@@ -17,4 +17,9 @@ This project is to create an optimized model to predict 2016 NCAA Finals, based 
 * accuracy : 81%
 
 > Model performance on testing dataset:
-* accuracy: 75%-80% for predicting Round of 32, Sweet 16 and Elite Eight
+accuracy: 
+* Round of 32: 78%
+* Sweet 16: 75% 
+* Elite Eight:75%
+* Final Four:  50%
+* Championship: 100%
