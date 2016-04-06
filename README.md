@@ -1,4 +1,4 @@
-# 2016-March-Data-Crunch-Madness-
+# First Price in Fordham March Madness Data Crunch Competition, sponsored by Deloitte
 Machine Learning, Python Sklearn, 2016 NCAA, Classification, Data Mining
 
 ## Introduction
